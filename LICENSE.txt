@@ -1,0 +1,65 @@
+AKPE LICENCE (free to use, not open source)
+Version 1.0, November 2026
+
+Copyright (c) 2026 Psirdematica (the Psirdematica DEV team). All rights reserved.
+
+"Akpe" means the Akpe church presentation software: its installers, the program,
+its updates and the files that come with it, apart from the parts listed in
+section 5. "You" means any person, church or organisation that installs or uses it.
+
+1. USE
+   You may install and use Akpe free of charge, on any number of computers, for
+   any lawful purpose, including in church services, events and broadcasts.
+
+2. SHARING
+   You may give exact, unmodified copies of the Akpe installers to others, for
+   example on a USB drive or by a link to the official download page, as long as
+   you charge nothing for them.
+
+3. WHAT YOU MAY NOT DO
+   You may not:
+   a. sell Akpe, rent it, or include it in anything you sell;
+   b. change Akpe, or copy, decompile or reverse-engineer it, except where the
+      law allows this despite this licence;
+   c. remove or change its name, logo, copyright notices or credits;
+   d. share a copy that has been changed, or say that Akpe is your own work.
+   The Akpe name, logo and mark belong to Psirdematica and are not licensed to
+   you for any other use.
+
+4. YOUR CHURCH'S DATA
+   Hymns, service plans, notices, settings and anything else you put into Akpe
+   belong to you or to whoever owns them. They stay on your computer. Akpe
+   collects nothing; it uses the internet only to download Bibles and to check
+   for updates.
+
+5. OTHER PEOPLE'S WORK INSIDE AKPE
+   Akpe includes Bible texts, fonts and open-source software made by others.
+   Each is used under its own licence, which applies to it instead of this one.
+   They are listed, with their licences and attributions, on Akpe's About screen.
+   The Bible texts published by Biblica are under the Creative Commons
+   Attribution-ShareAlike 4.0 licence; the fonts are under the SIL Open Font
+   License 1.1, whose text is installed beside each font. Nothing in this licence
+   limits what those licences allow you to do with those parts.
+
+6. NO WARRANTY
+   Akpe is given free and "as is", without warranty of any kind, express or
+   implied, including fitness for a particular purpose. Keep your own backups.
+
+7. LIMIT OF LIABILITY
+   As far as the law allows, Psirdematica is not liable for any loss or damage
+   arising from the use of Akpe or from being unable to use it, including lost
+   data or an interrupted service.
+
+8. ENDING THIS LICENCE
+   This licence ends automatically if you break it. You must then stop using
+   Akpe and delete your copies. Sections 4 to 7 continue after it ends.
+
+9. CHANGES
+   Later versions of Akpe may come with a newer version of this licence. The
+   licence that came with a copy applies to that copy.
+
+10. LAW
+    This licence is governed by the laws of the Republic of Ghana.
+
+Questions about this licence: contact the Psirdematica DEV team through
+https://github.com/Psirdem/akpe-builds

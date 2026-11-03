@@ -66,3 +66,11 @@ software inside Akpe keep their own licences, listed on Akpe's About screen.
 
 Churches using Akpe can report a problem through their Psirdematica contact. Please
 don't post screenshots of your church's own hymns or notices in public.
+
+
+
+<p float="left">
+<img width="40%" height="478" alt="akpe-lockup-stacked-on-dark-2400w" src="https://github.com/user-attachments/assets/b9fbbd9f-d169-41b9-927d-57799de4f34d" />
+<img width="59%" height="522" alt="psirdematica-dev_full" src="https://github.com/user-attachments/assets/40c1778c-c86b-439d-a9b3-2970b060f9eb" />
+</p>
+
